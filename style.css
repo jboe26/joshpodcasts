@@ -1,0 +1,14 @@
+body {
+    margin: auto;
+}
+.container, .card {
+    display: inline;
+}
+
+.jumbotron {
+    font-family: 'Courier Prime', monospace;
+}
+
+h5 {
+    font-family: 'Courier Prime', monospace;
+}
